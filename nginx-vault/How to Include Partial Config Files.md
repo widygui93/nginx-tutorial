@@ -1,0 +1,15 @@
+```c
+events {
+
+}
+
+http {
+	include /etc/nginx/mime.types;
+
+	server {
+		listen 80;
+		server_name nginx-handbook.test;
+		root /srv/nginx-handbook-projects/static-demo;
+	}
+}
+```

@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "88bf24b280bbf1f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "a15556529919e433",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "010aa9064f0327ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nginx Guide.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ec8cfcacf477536e",
+    "type": "split",
+    "children": [
+      {
+        "id": "94df87bef1c59463",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "22e22f2f075518b0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d27929b816beb621",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1f36c11b5978a872",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 214.5
+  },
+  "right": {
+    "id": "ba1b0d953e68db65",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e8d7429096bf9ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cccff0359e6299df",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Nginx Guide.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f56abd0e6c944c9c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Nginx Guide.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2fb8484e4167522a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3128887e1bbdcb7c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Nginx Guide.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "010aa9064f0327ed",
+  "lastOpenFiles": [
+    "How to understand the Main configuration file.md",
+    "Nginx Guide.md",
+    "How to optimize Nginx for Maximum Performance.md",
+    "How to use Nginx as a Load Balancer.md",
+    "How to use Nginx as a Reverse Proxy.md",
+    "Logging in Nginx.md",
+    "Dynamic Routing in Nginx.md",
+    "How to Try for Multiple Files.md",
+    "Redirects and Rewrites.md",
+    "Variable in Nginx.md",
+    "Location context.md",
+    "How to Include Partial Config Files.md",
+    "Static file type handling in Nginx.md",
+    "How to Serve Static Content using Nginx.md",
+    "How Nginx know which one of server contexts should handle the request.md",
+    "How to configure a basic web server.md",
+    "Vagrantfile.md"
+  ]
+}
